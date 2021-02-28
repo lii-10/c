@@ -1,5 +1,5 @@
 // Register service worker to control making site work offline
-
+//Best day ever
 if ('serviceWorker' in navigator) {
   navigator.serviceWorker
     .register('/c/sw.js')
